@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,eACJ,CACA,iBACI,eACJ,CACA,6CACI,eAAgB,CAChB,UACJ","file":"main.cf676172.chunk.css","sourcesContent":["body {\r\n    background: #ccc;\r\n}\r\n.MuiList-padding {\r\n    background: #fff;\r\n}\r\n.MuiTableRow-head .MuiTableCell-stickyHeader {\r\n    background: #000;\r\n    color: #fff;\r\n}\r\n"]}
